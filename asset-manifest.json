@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-page-travel/static/css/main.aafbbda5.css",
+    "main.js": "/landing-page-travel/static/js/main.9ceb4fbf.js",
+    "static/media/rock.jpg": "/landing-page-travel/static/media/rock.0ed46361cb48c5c62fcb.jpg",
+    "static/media/island.jpg": "/landing-page-travel/static/media/island.689c247a444a948d9cbe.jpg",
+    "static/media/beach.jpg": "/landing-page-travel/static/media/beach.986a255ef06ec0ee5db0.jpg",
+    "index.html": "/landing-page-travel/index.html",
+    "main.aafbbda5.css.map": "/landing-page-travel/static/css/main.aafbbda5.css.map",
+    "main.9ceb4fbf.js.map": "/landing-page-travel/static/js/main.9ceb4fbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafbbda5.css",
+    "static/js/main.9ceb4fbf.js"
+  ]
+}
